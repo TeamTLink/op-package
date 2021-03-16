@@ -7,5 +7,14 @@
         "requires" : [],
         "required-by" : [],
         "description" : "Original Pyを日本語化"
+    },
+    "discord" : {
+        "name" : "discord",
+        "version" : 0.1,
+        "author" : "teamtlink",
+        "sources" : "https://teamtlink.github.io/op-package/0.1/discord/discord.zip",
+        "requires" : [],
+        "required-by" : [],
+        "description" : "Original PyでDiscord.py"
     }
 }
